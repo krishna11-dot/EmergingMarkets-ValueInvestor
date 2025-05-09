@@ -56,15 +56,15 @@ Enhanced risk management through technical indicator integration
 
 ## Technical Implementation
 
- Python, PyTorch for deep learning models
- Pandas, NumPy for data manipulation
- Scikit-learn for traditional ML models and evaluation
- Matplotlib, Plotly for visualization
- Custom backtesting framework for strategy evaluation
+ -  Python, PyTorch for deep learning models
+ -  Pandas, NumPy for data manipulation
+ -  Scikit-learn for traditional ML models and evaluation
+ -  Matplotlib, Plotly for visualization
+ -  Custom backtesting framework for strategy evaluation
 
 ## Future Improvements
 
-Integration of macroeconomic indicators
-Market sentiment analysis from news sources
-Regime detection for adaptive strategy switching
-Multi-market correlation analysis for portfolio optimization
+-  Integration of macroeconomic indicators
+-  Market sentiment analysis from news sources
+-  Regime detection for adaptive strategy switching
+-  Multi-market correlation analysis for portfolio optimization
