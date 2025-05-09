@@ -1,6 +1,6 @@
 # EmergingMarkets-ValueInvestor
 
-Project Overview
+## Project Overview
 A sophisticated trading system for 8 emerging markets that outperforms buy-and-hold strategies while minimizing capital exposure through reduced holding periods. Using advanced time series forecasting techniques, technical indicators, and optimized trading strategies to achieve consistent returns across diverse market conditions.
 Background
 This project was developed for a portfolio investment company that focuses on emerging markets worldwide. The company's investment strategy is based on value investing principles rather than reacting to daily market volatility. The goal was to establish a robust intelligent system using stock market data to aid investment decisions based on the intrinsic value of companies.
@@ -10,7 +10,7 @@ Historical stock price data from 8 emerging markets for 2020 Q1-Q4 (training) an
 Each market has different operating days based on the country and exchange
 Features include Open, High, Low, Close prices and Volume
 
-Approach & Methodology
+## Approach & Methodology
 1. Feature Engineering
 
 Technical indicators: RSI (Relative Strength Index), Bollinger Bands (20-day period)
@@ -46,7 +46,7 @@ Genetic algorithm for parameter tuning
 Risk management through optimized stop-loss placement
 Capital allocation strategy to maximize returns
 
-Results
+## Results
 
 Prediction accuracy across markets with MAPE of 1.9%-7.2%
 Trading strategies outperforming buy-and-hold by up to 42%
@@ -54,7 +54,7 @@ Reduced average holding period to 9 days while maintaining profitability
 Consistent performance across multiple markets with minimal losses
 Enhanced risk management through technical indicator integration
 
-Technical Implementation
+## Technical Implementation
 
 Python, PyTorch for deep learning models
 Pandas, NumPy for data manipulation
@@ -62,7 +62,7 @@ Scikit-learn for traditional ML models and evaluation
 Matplotlib, Plotly for visualization
 Custom backtesting framework for strategy evaluation
 
-Future Improvements
+## Future Improvements
 
 Integration of macroeconomic indicators
 Market sentiment analysis from news sources
