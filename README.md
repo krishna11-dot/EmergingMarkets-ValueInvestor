@@ -4,7 +4,8 @@
 A sophisticated trading system for 8 emerging markets that outperforms buy-and-hold strategies while minimizing capital exposure through reduced holding periods. Using advanced time series forecasting techniques, technical indicators, and optimized trading strategies to achieve consistent returns across diverse market conditions.
 Background
 This project was developed for a portfolio investment company that focuses on emerging markets worldwide. The company's investment strategy is based on value investing principles rather than reacting to daily market volatility. The goal was to establish a robust intelligent system using stock market data to aid investment decisions based on the intrinsic value of companies.
-Data
+
+## Data
 
 Historical stock price data from 8 emerging markets for 2020 Q1-Q4 (training) and 2021 Q1 (testing)
 Each market has different operating days based on the country and exchange
@@ -27,32 +28,32 @@ Hyperparameter Optimization: Using genetic algorithms to find optimal model conf
 
 Developed signal generation based on:
 
-Price position relative to Bollinger Bands
-RSI thresholds (overbought/oversold conditions)
-Confirmation from model predictions
+-  Price position relative to Bollinger Bands
+-  RSI thresholds (overbought/oversold conditions)
+-  Confirmation from model predictions
 
 
 Optimized parameters:
 
-Buy threshold: 0.53%
-Stop-loss: 7.5% (optimized from initial 5%)
-Maximum holding period: 9 days
+-  Buy threshold: 0.53%
+-  Stop-loss: 7.5% (optimized from initial 5%)
+-  Maximum holding period: 9 days
 
 
 
 4. Optimization
 
-Genetic algorithm for parameter tuning
-Risk management through optimized stop-loss placement
-Capital allocation strategy to maximize returns
+-  Genetic algorithm for parameter tuning
+-  Risk management through optimized stop-loss placement
+-  Capital allocation strategy to maximize returns
 
 ## Results
 
-Prediction accuracy across markets with MAPE of 1.9%-7.2%
-Trading strategies outperforming buy-and-hold by up to 42%
-Reduced average holding period to 9 days while maintaining profitability
-Consistent performance across multiple markets with minimal losses
-Enhanced risk management through technical indicator integration
+-  Prediction accuracy across markets with MAPE of 1.9%-7.2%
+-  Trading strategies outperforming buy-and-hold by up to 42%
+-  Reduced average holding period to 9 days while maintaining profitability
+-  Consistent performance across multiple markets with minimal losses
+-  Enhanced risk management through technical indicator integration
 
 ## Technical Implementation
 
