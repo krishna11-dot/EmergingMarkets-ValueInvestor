@@ -2,6 +2,15 @@
 ## Project Overview
 A sophisticated trading system for 8 emerging markets that outperforms buy-and-hold strategies while minimizing capital exposure through reduced holding periods. Using advanced time series forecasting techniques, technical indicators, and optimized trading strategies to achieve consistent returns across diverse market conditions.
 
+## 🚀 **QUICK ACCESS FOR REVIEWERS**
+
+| Link Type | Description | Best For |
+|-----------|-------------|----------|
+| **[📊 COMPLETE ANALYSIS](https://colab.research.google.com/gist/krishna11-dot/13480e90969469f9d56e42c67d9367b0/_stock_prediction_system_output.ipynb)** | Full results + visualizations + model outputs | **Technical review & results** |
+| **[💻 SOURCE CODE](https://github.com/krishna11-dot/EmergingMarkets-ValueInvestor/blob/main/__stock_prediction_system___.ipynb)** | Clean notebook with documentation | **Code inspection & methodology** |
+ 
+
+
 ## Background
 This project was developed for a portfolio investment company that focuses on emerging markets worldwide. The company's investment strategy is based on value investing principles rather than reacting to daily market volatility. The goal was to establish a robust intelligent system using stock market data to aid investment decisions based on the intrinsic value of companies.
 
